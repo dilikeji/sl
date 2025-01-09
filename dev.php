@@ -3,7 +3,7 @@
 use EasySwoole\Log\LoggerInterface;
 
 return [
-    'SERVER_NAME' => "dilikeji/sl",
+    'SERVER_NAME' => "dilikeji_sl",
     'MAIN_SERVER' => [
         'LISTEN_ADDRESS' => '0.0.0.0',
         'PORT' => 9501,
