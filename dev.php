@@ -29,5 +29,5 @@ return [
         'displayConsole' => true,
         'ignoreCategory' => []
     ],
-    'TEMP_DIR' => null
+    'TEMP_DIR' => '/tmp'
 ];
